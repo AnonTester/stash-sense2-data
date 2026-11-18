@@ -6,3 +6,7 @@ the release format here is not compatible with v1's database_updater.py.
 
 Not meant to be browsed directly -- see the Releases page for downloadable
 assets (performer database, ONNX models).
+
+## License
+
+[MIT](LICENSE)
